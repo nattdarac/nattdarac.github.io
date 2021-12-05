@@ -11,8 +11,8 @@ p {
     color: black;
   }
 
-  #countries-like, .country-been{
-    color:black;
+  #my-notes, .country-been{
+    color:rgb(63, 244, 247);
   }
 
   li {
