@@ -1,60 +1,62 @@
 p {
-    color: red;
-    width: 500px;
-}
- 
-  
-  p{
-    font-size: 16px;
-    line-height: 2;
-    letter-spacing: 1px;
-    color: black;
-  }
-
-  #my-notes, .country-been{
-    color:rgb(63, 244, 247);
-  }
-
-  li {
-    color:rgb(130, 128, 128);
-    font-family: 'Courier', sans-serif;
-  }
-  a:hover {
-    color: blue;
-  }
-
-  a {
-    color: rgb(63, 244, 247);
-    width: 500px;
-    border: 1px solid black;
+  color: red;
+  width: 500px;
 }
 
-  img[alt] {
-    width: 600px;
-  }
+p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: black;
+}
 
-  html {
-    background-color: #f6fbfb;
-  }
-  
-  body {
-    width: 600px;
-    margin: 0 auto;
-    background-color: #f5f5f5;
-    padding: 0 20px 20px 20px;
-    border: 1px solid black;
-    font-family: 'Courier', sans-serif
-  } 
- 
-  h1 {
-    font-size: 40px;
-    text-align: center;
-    color: rgb(63, 244, 247);margin: 0;
-    padding: 20px 0;
-    text-shadow: 3px 3px 1px black;
-  }
-  
-  img {
-    display: block;
-    margin: 0 auto;
-  }
+#my-notes,
+.country-been {
+  color: rgb(63, 244, 247);
+}
+
+li {
+  color: rgb(130, 128, 128);
+  font-family: "Courier", sans-serif;
+}
+a:hover {
+  color: blue;
+}
+
+a {
+  color: rgb(63, 244, 247);
+  width: 500px;
+  border: 1px solid black;
+  text-shadow: 3px 3px 1px black;
+}
+
+img[alt] {
+  width: 600px;
+}
+
+html {
+  background-color: #f6fbfb;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #f5f5f5;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+  font-family: "Courier", sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: rgb(63, 244, 247);
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
